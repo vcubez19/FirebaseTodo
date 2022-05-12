@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseTodo</string>
+    <string name="add_todo">AddTodo</string>
+    <string name="text">text</string>
+</resources>
